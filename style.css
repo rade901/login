@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./login.jpg);
+}
+.form{
+    text-align: center;
+    margin-top: 300px;
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    box-shadow: 5px 5px rgb(141, 140, 140);
+    background: rgb(170,188,200);
+    background: linear-gradient(0deg, rgba(170,188,200,1) 7%, rgba(222,225,226,1) 24%, rgba(2,0,36,1) 91%);
+}
+.sub{
+    margin-top: 10px;
+    color: black;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    
+}
+input{
+    margin-top: -10px;
+}
+p{
+    margin-top: 15px;
+    text-shadow: 1px 1px silver;
+    color: white;
+}
+
